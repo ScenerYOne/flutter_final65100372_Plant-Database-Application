@@ -55,7 +55,7 @@ Follow these steps to run the project locally.
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/plant-database-app.git](https://github.com/yourusername/plant-database-app.git)
+    git clone [https://github.com/ScenerYOne/plant-database-app.git](https://github.com/ScenerYOne/flutter_final65100372.git)
     ```
 
 2.  **Navigate to the project directory**
