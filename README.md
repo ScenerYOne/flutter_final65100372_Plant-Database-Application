@@ -77,11 +77,6 @@ Follow these steps to run the project locally.
     ```
     *Note: The `DatabaseHelper` class will automatically initialize the database and seed initial data upon the first launch.*
 
-##  Screenshots
-
-| Plant List | Plant Detail | Land Use Info |
-| :---: | :---: | :---: |
-| ![List Screen](path/to/screenshot1.png) | ![Detail Screen](path/to/screenshot2.png) | ![Usage Screen](path/to/screenshot3.png) |
 
 ---
 
