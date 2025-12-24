@@ -1,6 +1,6 @@
 # Plant Database Application 
 
-> **Final Project Submission**
+> **Final Flutter Project Submission**
 >
 > **Course:** Mobile Device Application Development
 >
